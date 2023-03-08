@@ -2,7 +2,18 @@
     {
         "name": "Patrick O'Malley",
         "address": "2828 N Litchfield Rd, Goodyear, AZ 85395 US",
-        "phone": "602-663-1791"
+        "contact": {
+        "phone": "602-663-1791",
+        "email": "patrick.omalley@bmo.com"
+        },
+        "description": "Whether you’re buying, refinancing, or building a custom home, you have a lot riding on your mortgage banker. Market conditions and mortgage programs change frequently, and it’s critical that you’re dealing with a top professional who will give you quick and accurate advice. With over 15 years of experience, I have the expertise and knowledge you need to choose the right path with your financing. After you’ve applied, I’ll call you to discuss the details of your loan, or you may choose to set up an appointment (by phone or in person). You can call me any time or text or email to start the conversation.",
+        "specialties": [
+        "Physician’s Loans",
+        "Construction Loans",
+        "Jumbo Financing",
+        "Cross-Border Mortgages"
+        ],
+        "background": "I am an experienced, service-oriented mortgage lender with a background in financial services, ready to advise you. I have guided countless customers with their mortgage needs - be it to build a custom home, buy their first or next home, or refinance their mortgage loan to meet other goals. Throughout my career I have developed extensive experience in the physician/dentist, construction and Canadian lending space. At BMO, we have developed a winning combination of product, pricing, and process which sets us apart from our competition. Contact me to discuss the various mortgage options available to you."
     },
     {
         "name": "Kate Saethre",
